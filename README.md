@@ -1,5 +1,5 @@
 # Active Learning for Bayesian 3D Hand Pose Estimation
-![alt text](https://github.com/razvancaramalau/al_bhpe/poster.png?raw=true)
+![alt text](https://github.com/razvancaramalau/al_bhpe/poster.png)
 
 The code requires pre-processed hand detected and cropped images for the 3D Hand Pose Dataset: ICVL, NYU, BigHand2.2;
 This should be place in the "data/source/" directory 
