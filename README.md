@@ -6,4 +6,6 @@ The pre-processed dataset can be made available upon request(r.caramalau18@imper
 
 Before running, please check and tune the parameters in the config.py file and at the beginning of the main.py function.
 
+## Qualitative analysis on the ICVL, NYU, BigHand2.2M datasets
+https://www.youtube.com/playlist?list=PLYk-b7Fzd073O2ksuTSvxLNXiMEOMSaIh
 
