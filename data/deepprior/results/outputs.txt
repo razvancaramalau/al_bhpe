@@ -1,0 +1,1 @@
+outputs the learnt 3D joint coordinates (and epistemic/aleatoric variances)
