@@ -18,6 +18,8 @@ Before running, please check and tune the parameters in the config.py file and a
 https://www.youtube.com/playlist?list=PLYk-b7Fzd073O2ksuTSvxLNXiMEOMSaIh
 
 ## Required Python3 libraries:
+```bash 
+
 numpy
 matplotlib
 tensorflow
@@ -30,5 +32,5 @@ h5py
 glob
 gc
 argparse
-
+```
 
